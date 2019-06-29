@@ -27,7 +27,7 @@ vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui
 
 
 ```
-git clone https://github.com/bailicangdu/vue2-manage  
+git clone https://github.com/hnaxing/vue2-manage  
 
 cd vue2-manage  
 
